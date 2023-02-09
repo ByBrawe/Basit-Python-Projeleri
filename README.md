@@ -6,14 +6,14 @@ Python da deneme amaçlı yaptığım bazı projeleri repoya ekledim. Herkese a�
 
 Repoda bulunan projelerin bazıları:
 
-Instagram takip etme 
-Basit hesap makinesi
-Kripto veri çekme 
-Birleşik faiz hesaplama
-Kaldıraçlı isimlerde kar zarar oranı hesaplama
-Mail açmak için kullanılacak isim oluşturucu
-Imdb veri çekme
-Döviz hesaplayıcı
+- Instagram takip etme 
+- Basit hesap makinesi
+- Kripto veri çekme 
+- Birleşik faiz hesaplama
+- Kaldıraçlı isimlerde kar zarar oranı hesaplama
+- Mail açmak için kullanılacak isim oluşturucu
+- Imdb veri çekme
+- Döviz hesaplayıcı
 
 
 
