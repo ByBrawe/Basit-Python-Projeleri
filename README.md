@@ -11,7 +11,7 @@ Repoda bulunan projelerin bazıları:
 - Kripto veri çekme 
 - Birleşik faiz hesaplama
 - Kaldıraçlı isimlerde kar zarar oranı hesaplama
-- Mail açmak için kullanılacak isim oluşturucu
+- Mail adresi için random isim oluşturucu
 - Imdb veri çekme
 - Döviz hesaplayıcı
 
